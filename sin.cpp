@@ -21,7 +21,7 @@ main()
     j=sin(i);
     y=-int(j*magy);
 	lineto(x,y);
-	//circle(x,y,2);
+	circle(x,y,2);
   }
   getch();
 }
